@@ -1,5 +1,5 @@
-# Ionic 4 - PHP - MySQL - CRUD
-MyFirstApp with IONIC Framework,  IONIC 4 + PHP  + MySQL (CRUD)
+# Ionic 4 - Angular 7 - PHP - MySQL - CRUD
+MyFirstApp with IONIC Framework & Angular 7,  IONIC 4 + Angular 7 + PHP  + MySQL (CRUD)
 
 
 ->	This App can very easily Upload & Retrive (CRUD) data  with the help of PHP + MySQL API
